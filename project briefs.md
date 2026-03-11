@@ -7,7 +7,7 @@
 | [3](#team-3) | 할루캐쳐 | 연구 | Alltology |
 | [5](#team-5) | 규교굥 |  |  |
 | [6](#team-6) | Greenfield | 산학 | 스토리 기반 관광 활성화 프로젝트 |
-| [7](#team-7) | reverdir |  |  |
+| [7](#team-7) | reverdir | 산학 | 게임형 독서 기록 서비스 |
 | [8](#team-8) | 하면된다 | 산학 | Vintic |
 | [9](#team-9) | Cloud9 | 산학 | 퀀트 전략 실시간 상태 모니터링 및 이상 징후 탐지 시스템 |
 | [10](#team-10) | 212223 |  |  |
@@ -143,18 +143,18 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | 게임형 독서 기록 서비스 |
+| 트랙 | 산학 |
 | 팀명 | reverdir |
-| 팀구성 |  |
-| 팀지도교수 |  |
+| 팀구성 | 전채연, Lyu, Dongying, 이은효 |
+| 팀지도교수 | 미정 |
 | 무엇을 만들고자 하는가 | 사람들이 독서에 재미를 붙일 수 있게 하는 기록용 어플 |
 | 고객 (누구를 위해) | 독서를 재미있게 습관화하고 싶은 사람을 위해 |
 | Pain Point (해결할 문제) | 기존의 독서 앱 기록 과정의 단조로움. 번거로운 기록 과정 |
 | 사용 기술 | Front (React) / Back (Spring Boot) |
 | 기대 효과 | 게임 요소를 통한 재미있는 독서 경험을 제공하고, 기록 관리 편의성을 증진함 |
 | GitHub Repo | [https://github.com/team-capstone-reverdir-2026/reverdir_repo](https://github.com/team-capstone-reverdir-2026/reverdir_repo) |
-| Team Ground Rule |  |
+| Team Ground Rule | https://github.com/eunhyo019/reverdir_repo/blob/main/Team_Ground_Rule.md |
 | 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
