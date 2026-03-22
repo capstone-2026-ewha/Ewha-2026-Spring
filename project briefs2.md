@@ -26,7 +26,6 @@
 ---
 
 <a id="team-1"></a>
-team 1
 ## Team 1 이사장님
 
 | 항목 | 내용 |
@@ -53,7 +52,6 @@ team 1
 ---
 
 <a id="team-2"></a>
-team 2
 ## Team 2 Sudo
 
 | 항목 | 내용 |
@@ -80,7 +78,6 @@ team 2
 ---
 
 <a id="team-3"></a>
-team 3
 ## Team 3 Alltology
 
 | 항목 | 내용 |
@@ -107,7 +104,6 @@ team 3
 ---
 
 <a id="team-5"></a>
-team 5
 ## Team 5 규교굥
 
 | 항목 | 내용 |
@@ -134,7 +130,6 @@ team 5
 ---
 
 <a id="team-6"></a>
-team 6
 ## Team 6 Greenfield
 
 | 항목 | 내용 |
@@ -161,7 +156,6 @@ team 6
 ---
 
 <a id="team-7"></a>
-team 7
 ## Team 7 reverdir
 
 | 항목 | 내용 |
@@ -188,7 +182,6 @@ team 7
 ---
 
 <a id="team-8"></a>
-team 8
 ## Team 8 하면된다
 
 | 항목 | 내용 |
@@ -215,7 +208,6 @@ team 8
 ---
 
 <a id="team-9"></a>
-team 9
 ## Team 9 Cloud9
 
 | 항목 | 내용 |
@@ -242,7 +234,6 @@ team 9
 ---
 
 <a id="team-10"></a>
-team 10
 ## Team 10 212223
 
 | 항목 | 내용 |
@@ -269,7 +260,6 @@ team 10
 ---
 
 <a id="team-11"></a>
-team 11
 ## Team 11 알고리듬
 
 | 항목 | 내용 |
@@ -296,7 +286,6 @@ team 11
 ---
 
 <a id="team-12"></a>
-team 12
 ## Team 12 404
 
 | 항목 | 내용 |
@@ -322,7 +311,6 @@ team 12
 
 ---
 <a id="team-13"></a>
-team 13
 ## Team 13 Semicolone;
 
 | 항목 | 내용 |
@@ -374,7 +362,6 @@ OpenAI API (LLM)
 
 
 <a id="team-14"></a>
-team 14
 ## Team 14 def
 
 | 항목 | 내용 |
@@ -401,7 +388,6 @@ team 14
 ---
 
 <a id="team-15"></a>
-team 15
 ## Team 15 햄부기
 
 | 항목 | 내용 |
@@ -428,7 +414,6 @@ team 15
 ---
 
 <a id="team-16"></a>
-team 16
 ## Team 16 퓨터
 
 | 항목 | 내용 |
@@ -455,7 +440,6 @@ team 16
 ---
 
 <a id="team-17"></a>
-team 17
 ## Team 17 SPY
 
 | 항목 | 내용 |
@@ -482,7 +466,6 @@ team 17
 ---
 
 <a id="team-18"></a>
-team 18
 ## Team 18 디바트(deep-art)
 
 | 항목 | 내용 |
@@ -509,7 +492,6 @@ team 18
 ---
 
 <a id="team-19"></a>
-team 19
 ## Team 19 Logue
 
 | 항목 | 내용 |
