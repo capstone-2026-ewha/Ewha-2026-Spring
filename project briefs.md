@@ -3,7 +3,7 @@
 | 팀번호 | 팀명 | 트랙 | 프로젝트명 |
 |:------:|------|:----:|------------|
 | [1](#team-1) | 이사장님 | 연구 | Test-Time Prompt Tuning 기반 Cross-Sensor 도메인 적응을 통한 Vision-Language Model의 열대 저기압 분류 연구 |
-| [2](#team-2) | Sudo | 산학 | HealthMate AI: 만성질환 위험군을 위한 Vision AI 식단 인식과 AI 맞춤 코칭 통합 헬스케어 앱 |
+| [2](#team-2) | Sudo | 산학 | HealthMate AI: 만성질환 위험군 대상 식단 인식·코칭 통합 헬스케어 플랫폼 |
 | [3](#team-3) | Alltology | 연구 | 일반 벤치마크를 활용한 LLM 내부 파라미터 확장과 온톨로지 기반 지식 증강 기법의 실증적 성능 비교 및 융합 방법론 연구 |
 | [5](#team-5) | 규교굥 | 산학 | 평범한 골동품 가게 운영 시뮬레이션에서 금지된 상자를 열며 공포 게임으로 전환되는 생성형 AI NPC 기반 게임 |
 | [6](#team-6) | Greenfield | 산학 | 	AI 역사 인물 인터랙션과 다국어 스토리 콘텐츠 기반 역사 관광 활성화 웹 플랫폼 |
@@ -54,7 +54,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | HealthMate AI: 만성질환 위험군을 위한 Vision AI 식단 인식과 AI 맞춤 코칭 통합 헬스케어 앱 |
+| 프로젝트명 | HealthMate AI: 만성질환 위험군 대상 식단 인식·코칭 통합 헬스케어 플랫폼 |
 | 서비스명(브랜드) | 온케어 (On-Care) |
 | 트랙 | 산학 |
 | 팀명 | Sudo |
@@ -69,7 +69,7 @@
 | 기대 효과 | - **만성질환 예방 및 관리 실효성 향상**: 질환별 맞춤 식단·운동 추천으로 고혈압·당뇨·이상지질혈증 등 생활습관 질환의 조기 예방과 관리 지원.</br> - **건강 관리 습관의 장기적 내재화**: 포인트 보상·streak 달성·AI 피드백의 선순환 구조로 단기 다짐이 아닌 지속 가능한 건강 루틴 형성.</br> - **데이터 기반 개인화 서비스 고도화**: 사용자 피드백 누적 → 추천 알고리즘 정밀도 향상 → 향후 스마트워치 연동·AI 건강 리포트 등 프리미엄 기능 확장 기반 마련.</br> - **의료비 절감 및 사회적 기여**: 예방 중심 건강 관리 습관 형성으로 불필요한 병원 방문과 만성질환 악화를 줄여 개인·사회적 의료 비용 절감에 기여. |
 | GitHub Repo | [https://github.com/CSE-Sudo-26/sudo-capstone-project](https://github.com/CSE-Sudo-26/sudo-capstone-project) |
 | Team Ground Rule | [Team Ground Rule](https://github.com/CSE-Sudo-26/sudo-capstone-project/blob/main/Team_Ground_Rule.md) |
-| 최종수정일 | 2026-03-19 |
+| 최종수정일 | 2026-03-26 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
